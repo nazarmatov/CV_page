@@ -1,0 +1,21 @@
+body{
+    background-image: url("img/back1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+}
+div.about_me{
+    border: 1px solid ;
+    border-radius: 8px;
+    background-color: rgb(245, 247, 246);
+    padding: 30px;
+    margin:200px;
+}
+.hello{
+    margin-top: 5px;
+    text-align:center;
+}
+.bio{
+    margin: 15px;
+}
